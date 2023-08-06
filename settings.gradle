@@ -1,0 +1,4 @@
+rootProject.name = 'flink-examples'
+include 'flink-simple','flink-broadcast','flink-table'
+include 'kafka-tools'
+
